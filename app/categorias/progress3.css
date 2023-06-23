@@ -1,0 +1,26 @@
+/* [Corpus; Loader 3] */
+.custom-loader {
+    width: 24px;
+    height: 24px;
+    background: #000000;
+    border-radius: 50%;
+    box-shadow: 40px 0 #00000022, -40px 0 #000000;
+    animation: d5 1s infinite linear alternate;
+}
+
+@keyframes d5 {
+    0% {
+        box-shadow: 40px 0 #000000, -40px 0 #00000022;
+        background: #000000
+    }
+
+    33% {
+        box-shadow: 40px 0 #000000, -40px 0 #00000022;
+        background: #00000022
+    }
+
+    66% {
+        box-shadow: 40px 0 #00000022, -40px 0 #000000;
+        background: #00000022
+    }
+}

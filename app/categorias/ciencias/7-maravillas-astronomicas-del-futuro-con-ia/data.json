@@ -1,0 +1,29 @@
+{
+    "originalTitle": "7 maravillas astronómicas del futuro con IA: Descubre los secretos más sorprendentes del universo",
+    "routeTitle": "7-maravillas-astronomicas-del-futuro-con-ia",
+    "headerKeywords": "maravillas astronómicas, futuro, ia, secretos sorprendentes, universo, astronomía avanzada, tecnología espacial innovadora, exploración del espacio profundo , descubrimientos cósmicos impresionantes , investigación astrofísica de vanguardia , telescopios gigantes y satélites especializados , misiones interplanetarias automatizadas , inteligencia artificial aplicada a la astronomía  ,análisis de datos masivos en tiempo real,sistemas autónomos para el estudio del cosmos,nuevas formas de energía renovable en el espacio,tecnologías emergentes para viajes interestelares ,colaboraciones internacionales entre agencias espaciales ,observatorios virtuales y realidad aumentada aplicados a la astronomía",
+    "title": "7 maravillas astronómicas del futuro con IA",
+    "introduction": "La tecnología de inteligencia artificial (IA) está revolucionando la forma en que exploramos el universo. Desde telescopios más avanzados hasta algoritmos sofisticados, los científicos están descubriendo secretos sorprendentes sobre nuestro cosmos. Aquí presentamos las siete maravillas astronómicas del futuro impulsadas por la IA.",
+    "list": [
+        " Telescopio espacial James Webb: Este telescopio será lanzado en octubre de 2021 y se espera que sea capaz de detectar planetas similares a la Tierra fuera de nuestro sistema solar.",
+        " Algoritmo DeepLens: Desarrollado por Amazon Web Services, este algoritmo utiliza técnicas avanzadas para analizar imágenes capturadas por telescopios y encontrar objetos celestes ocultos.",
+        " Observatorio Vera C. Rubin: Anteriormente conocido como LSST, este observatorio utilizará un enorme sensor digital para escanear todo el cielo visible cada tres días durante diez años seguidos.",
+        " Satélite Gaia: Lanzado en diciembre de 2013, este satélite ha estado cartografiando nuestra galaxia desde entonces y ya ha recopilado datos detallados sobre mil millones de estrellas.",
+        " Redshift Machine Learning Algorithm Suite: Esta suite incluye varios algoritmos diseñados específicamente para ayudar a los científicos a comprender mejor cómo evoluciona el universo con el tiempo.",
+        " Simulaciones cosmológicas basadas en AI : Los investigadores utilizan estas simulaciones computacionales complejas para modelar cómo se formaron las estructuras cósmicas como cúmulos de galaxias y supercúmulos.",
+        " Telescopio espacial Nancy Grace Roman: Este telescopio, programado para ser lanzado en la década de 2020, se centrará en estudiar el universo temprano y buscar planetas similares a la Tierra."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/Hl9TihVE19w",
+    "popularOpinion": "La IA está transformando nuestra comprensión del cosmos. Con estas siete maravillas astronómicas impulsadas por AI, los científicos están descubriendo secretos sorprendentes sobre nuestro universo que antes eran inaccesibles.",
+    "summary": "Los avances tecnológicos han permitido una mayor exploración del espacio exterior. La inteligencia artificial ha sido fundamental para hacer posible estos nuevos hallazgos. Desde algoritmos sofisticados hasta telescopios avanzados como James Webb o Nancy Grace Roman; cada uno tiene su papel importante en ayudar a los investigadores a entender mejor cómo funciona el universo.",
+    "sources": [
+        " https://www.nasa.gov/feature/goddard/2019/nasa-s-webb-telescope-to-investigate-galaxies-origin-of-life-and-more",
+        " https://aws.amazon.com/deeplens/",
+        " https://www.lsst.org/science-collaborations/cosmology-simulation-working-group",
+        " http://sci.esa.int/gaia/",
+        " https://redshift.autodesk.com/about.html",
+        " http://astrostatistics.psu.edu/su21/COSMOLOGY.pdf",
+        "https ://roman.gsfc.nasa.gov"
+    ],
+    "amazonLink": ""
+}

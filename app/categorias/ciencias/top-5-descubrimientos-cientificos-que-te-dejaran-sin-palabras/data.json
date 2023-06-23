@@ -1,0 +1,24 @@
+{
+    "originalTitle": "Top 5 Descubrimientos Científicos que te Dejarán sin Palabras",
+    "routeTitle": "top-5-descubrimientos-cientificos-que-te-dejaran-sin-palabras",
+    "headerKeywords": "descubrimientos científicos, ciencia, investigación, tecnología, avances científicos, descubrimientos asombrosos, innovaciones tecnológicas, nuevos descubrimientos en ciencia y tecnología , experimentos científicos impresionantes , hallazgos sorprendentes de la ciencia moderna , desarrollo científico actualizado , progreso en investigación médica y biotecnológica  , estudios avanzados sobre el universo y los planetas del sistema solar  , descubrimiento de nuevas especies animales o vegetales   ,investigación espacial,nanotecnología,innovaciones energéticas sostenibles,desarrollos informáticos revolucionarios ,avances en inteligencia artificial (ia),robótica avanzada,medicina personalizada e individualizadaterapias génicas innovadoras",
+    "title": "Top 5 Descubrimientos Científicos que te Dejarán sin Palabras",
+    "introduction": "La ciencia siempre nos sorprende con nuevos descubrimientos y avances tecnológicos. En esta ocasión, hemos recopilado los cinco hallazgos más impresionantes de la última década que han dejado a muchos científicos y expertos en el tema sin palabras.",
+    "list": [
+        " Agujero negro fotografiado por primera vez: Este hito histórico fue logrado gracias al Telescopio del Horizonte de Sucesos (EHT), una red global de ocho radiotelescopios interconectados ubicados en diferentes partes del mundo. La imagen capturada muestra un anillo brillante rodeando un punto oscuro, lo cual confirma las predicciones hechas por Albert Einstein sobre la existencia de agujeros negros.",
+        " Edición genética CRISPR-Cas9: Esta técnica permite modificar genes específicos dentro del ADN humano para curar enfermedades hereditarias como el cáncer o trastornos sanguíneos. El método utiliza una proteína llamada Cas9 para cortar secciones precisas del ADN y reemplazarlas con nuevas secuencias génicas.",
+        " Ondas gravitacionales detectadas por LIGO-Virgo: Las ondas gravitacionales son vibraciones producidas cuando dos objetos masivos colisionan entre sí, tal como sucede cuando dos estrellas chocan. Los observatorios LIGO-Virgo fueron capaces de detectar estas ondas mediante interferometría láser avanzada, abriendo así una nueva ventana hacia el universo invisible.",
+        " Exoplanetas habitables encontrados cerca a nuestro sistema solar: Los astrónomos han descubierto varios planetas similares a la Tierra que orbitan alrededor de estrellas cercanas, lo cual aumenta las posibilidades de encontrar vida extraterrestre. Uno de los más prometedores es Proxima b, un planeta rocoso ubicado en la zona habitable alrededor de su estrella.",
+        " Inteligencia artificial AlphaGo vence a campeones mundiales del juego Go: El programa desarrollado por Google DeepMind fue capaz de derrotar a algunos jugadores profesionales del antiguo juego chino conocido como Go utilizando técnicas avanzadas de aprendizaje automático y redes neuronales artificiales."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/7leXWUlpVIg",
+    "popularOpinion": "Estos hallazgos científicos son impresionantes y demuestran el poder e importancia que tiene la ciencia para nuestra sociedad. Cada uno representa una nueva frontera en nuestro entendimiento sobre el universo, desde lo más pequeño hasta lo más grande. Es emocionante pensar qué nuevos avances nos esperan en el futuro gracias al trabajo incansable y dedicación constante por parte de los investigadores.",
+    "summary": "La ciencia ha logrado grandes avances durante esta última década con descubrimientos sorprendentes tales como agujeros negros fotografiados por primera vez o exoplanetas habitables encontrados cerca a nuestro sistema solar entre otros cinco importantes hitos científicos recopilados aquí.",
+    "sources": [
+        " First-ever image of black hole captured. BBC News.",
+        " CRISPR-Cas9 gene editing explained. Live Science.",
+        "Gravitational Waves Detected 100 Years After Einsteins Prediction. National Geographic.",
+        "A potentially habitable planet has been discovered just 4.2 light-years away. The Verge.",
+        "AlphaGo: Mastering the ancient game of Go with Machine Learning."
+    ]
+}

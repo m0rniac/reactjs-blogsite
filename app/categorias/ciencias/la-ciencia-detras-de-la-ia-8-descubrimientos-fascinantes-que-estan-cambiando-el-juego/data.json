@@ -1,0 +1,30 @@
+{
+    "originalTitle": "La ciencia detrás de la IA: 8 descubrimientos fascinantes que están cambiando el juego",
+    "routeTitle": "la-ciencia-detras-de-la-ia-8-descubrimientos-fascinantes-que-estan-cambiando-el-juego",
+    "headerKeywords": "ciencia, ia, descubrimientos fascinantes, juego, inteligencia artificial, aprendizaje automático, algoritmos de machine learning , redes neuronales artificiales , deep learning , procesamiento del lenguaje natural (nlp), visión por computadora , robótica avanzada , automatización industrial y empresarial  ,análisis predictivo,big data,minería de datos,aprendizaje profundo,sistemas expertos,inteligencia emocional artificial ,asistentes virtuales ,chatbots ,reconocimiento facialtecnología cognitiva",
+    "title": "La ciencia detrás de la IA: 8 descubrimientos fascinantes que están cambiando el juego",
+    "introduction": "La inteligencia artificial (IA) es una tecnología en constante evolución y cada vez más presente en nuestra vida cotidiana. Desde asistentes virtuales hasta sistemas de seguridad, la IA está transformando nuestro mundo a pasos agigantados. Pero ¿cómo funciona realmente? En este artículo exploraremos ocho descubrimientos fascinantes sobre la ciencia detrás de la IA.",
+    "list": [
+        " Aprendizaje profundo: El aprendizaje profundo es un tipo de algoritmo utilizado por los sistemas de inteligencia artificial para aprender patrones complejos a partir del análisis masivo de datos.",
+        " Redes neuronales artificiales: Las redes neuronales artificiales son modelos matemáticos inspirados en las conexiones cerebrales humanas utilizadas para procesar información y tomar decisiones.",
+        " Procesamiento del lenguaje natural (NLP): NLP se refiere al conjunto de técnicas utilizadas por los sistemas informáticos para entender, interpretar y generar lenguaje humano.",
+        " Visión computacional: La visión computacional permite a las máquinas analizar imágenes digitales e identificar objetos, rostros u otros elementos relevantes dentro del contenido visual.",
+        " Robótica autónoma: Los robots autónomos pueden realizar tareas sin intervención humana gracias a su capacidad para percibir su entorno mediante sensores integrados con software avanzado basado en AI",
+        " Aprendizaje por refuerzo: El aprendizaje por refuerzo es un método de entrenamiento en el que los sistemas de IA reciben recompensas o castigos según su comportamiento, lo que les permite aprender a través del ensayo y error.",
+        " Reducción dimensional : La reducción dimensional se utiliza para simplificar la información mediante la eliminación de características redundantes ,lo cual ayuda a mejorar la eficiencia computacional."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/VQe0PD7gn5I",
+    "popularOpinion": "La inteligencia artificial ha sido objeto tanto de entusiasmo como preocupación. Mientras algunos ven sus posibilidades ilimitadas, otros temen las consecuencias negativas si no se controla adecuadamente. Sin embargo, está claro que esta tecnología seguirá transformando nuestro mundo en formas inimaginables.",
+    "summary": "En este artículo hemos explorado ocho descubrimientos fascinantes sobre la ciencia detrás de la IA: desde el aprendizaje profundo hasta los sistemas expertos pasando por NLP y visión computacional . Estos avances están cambiando radicalmente nuestra forma entender e interactuar con las máquinas .",
+    "sources": [
+        " https://www.bbva.com/es/ia-y-aprendizaje-profundo/",
+        " https://www.sciencedirect.com/topics/computer-science/artificial-neural-network",
+        " https://emerj.com/ai-sector-overviews/natural-language-processing-nlp-in-artificial-intelligence-an-overview/",
+        " http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf",
+        "https://ieeexplore.ieee.org/document/7828592",
+        "http:/citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.198&rep=rep1&type=pdf",
+        "https://www.sciencedirect.com/topics/computer-science/reinforcement-learning",
+        " https://towardsdatascience.com/dimensionality-reduction-for-machine-learning-80a46c2ebb7e"
+    ],
+    "amazonLink": ""
+}

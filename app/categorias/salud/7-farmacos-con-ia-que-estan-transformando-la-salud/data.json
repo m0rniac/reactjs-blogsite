@@ -1,0 +1,28 @@
+{
+    "originalTitle": "7 fármacos con IA que están transformando la salud",
+    "routeTitle": "7-farmacos-con-ia-que-estan-transformando-la-salud",
+    "headerKeywords": "fármacos, ia, transformando salud, inteligencia artificial, innovación médica, tecnología sanitaria, tratamiento de enfermedades crónicas, investigación farmacéutica avanzada , terapias personalizadas , medicina de precisión , diagnóstico temprano , eficacia del tratamiento médico , reducción de efectos secundarios adversos en los pacientes  ,mejora la calidad de vida del paciente,nuevas opciones terapéuticas,tratamiento más seguro y preciso,optimización del proceso clínico,análisis predictivo en el cuidado al paciente ,desarrollo acelerado de nuevos fármacos ,mayor eficiencia en ensayos clínicos ,reducción costes sanitarios",
+    "title": "7 fármacos con IA que están transformando la salud",
+    "introduction": "La inteligencia artificial (IA) está revolucionando el mundo de la medicina y farmacología. Cada vez son más los fármacos que utilizan esta tecnología para mejorar su eficacia y reducir sus efectos secundarios. En este artículo, te presentamos siete ejemplos de cómo la IA está transformando la salud.",
+    "list": [
+        " Predicción del riesgo cardiovascular: La empresa Novartis ha desarrollado un algoritmo basado en IA capaz de predecir el riesgo cardiovascular a partir del análisis de datos clínicos e imágenes médicas.",
+        " Diagnóstico precoz del cáncer: El sistema Watson for Oncology, creado por IBM, utiliza técnicas avanzadas de procesamiento natural del lenguaje para analizar grandes cantidades de información sobre pacientes oncológicos y ofrecer recomendaciones personalizadas a los oncólogos.",
+        " Diseño molecular automatizado: La compañía Insilico Medicine ha diseñado una plataforma basada en aprendizaje profundo capaz de generar moléculas terapéuticas innovadoras en tiempo récord.",
+        " Optimización dosimétrica radioterapia: RaySearch Laboratories ha desarrollado un software basado en AI llamdo RayStation que permite optimizar las dosis necesarias durante tratamientos radioterapéticos complejos como pueden ser tumores cerebrales o próstata",
+        " Identificación temprana enfermedades raras : Los investigadores han utilizado redes neuronales profundas para identificar patrones específicos asociados con enfermedades genéticas raras mediante pruebas genómicas masivas",
+        " Descubrimiento automático nuevos usos medicamentos existentes : La empresa BenevolentAI ha desarrollado una plataforma de IA que utiliza el aprendizaje profundo para analizar grandes cantidades de datos y descubrir nuevos usos terapéuticos para medicamentos ya existentes.",
+        " Personalización del tratamiento: El sistema DeepGestalt, creado por la compañía FDNA, es capaz de identificar más de 200 síndromes genéticos a partir del análisis facial. Esto permite personalizar los tratamientos en función del perfil genético único de cada paciente."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/prHGHi1uYT8",
+    "popularOpinion": "La utilización creciente e innovadora que se está haciendo con la inteligencia artificial en el campo médico puede ser un gran avance hacia una atención sanitaria mucho mas eficiente y efectiva. Sin embargo también hay preocupaciones sobre cómo esta tecnología podría afectar al empleo humano o si las decisiones tomadas por sistemas automatizados pueden estar sesgados",
+    "summary": "En resumen, estos siete ejemplos muestran cómo la IA está transformando rápidamente el mundo farmacológico y médico mediante su capacidad para procesar enormes cantidades información clínica compleja , lo cual permitirá mejorar significativamente tanto diagnósticos como tratamientos.",
+    "sources": [
+        " Novartis develops AI algorithm to predict heart disease risk",
+        " IBM Watson for Oncology",
+        "Insillico Medicine designs new molecules with deep learning algorithms https://insilicomedicine.com/",
+        "RaySearch Laboratories RayStation software optimizes radiation therapy dosimetry https://raysearchlabs.com/products/raystation/",
+        "Massive genomic testing used by researchers to identify rare diseases https://www.nature.com/articles/d41586-018-05736-z",
+        "BenevolentAI uses AI to discover new therapeutic applications for existing drugs",
+        "FDNAs DeepGestalt can diagnose over 200 genetic syndromes from facial analysis data https://fdna.health/deepgestalt/"
+    ]
+}

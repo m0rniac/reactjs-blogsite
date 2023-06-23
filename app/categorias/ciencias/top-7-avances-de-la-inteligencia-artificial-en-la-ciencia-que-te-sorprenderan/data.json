@@ -1,0 +1,28 @@
+{
+    "originalTitle": "Top 7 Avances de la Inteligencia Artificial en la Ciencia que te Sorprenderán",
+    "routeTitle": "top-7-avances-de-la-inteligencia-artificial-en-la-ciencia-que-te-sorprenderan",
+    "headerKeywords": "inteligencia artificial, ciencia, avances, tecnología, robótica, aprendizaje automático, big data, algoritmos de machine learning , redes neuronales artificiales , procesamiento del lenguaje natural (nlp), visión por computadora , reconocimiento facial , asistentes virtuales inteligentes , chatbots avanzados  conversación natural con ia   análisis predictivo  automatización inteligente  industria 40   internet de las cosas (iot)    ciberseguridad     medicina y salud      agricultura inteligente       energía renovable        transporte autónomo",
+    "title": "Top 7 Avances de la Inteligencia Artificial en la Ciencia que te Sorprenderán",
+    "introduction": "La inteligencia artificial ha revolucionado el mundo científico con sus avances y aplicaciones. En este artículo, presentamos los top 7 avances más sorprendentes de la IA en diferentes áreas de la ciencia.",
+    "list": [
+        " Diagnóstico médico preciso: La IA puede analizar grandes cantidades de datos para detectar patrones y predecir enfermedades con mayor precisión que los humanos.",
+        " Descubrimiento de nuevos medicamentos: Los algoritmos pueden identificar compuestos químicos prometedores para tratar diversas enfermedades, acelerando así el proceso de descubrimiento.",
+        " Predicciones climáticas exactas: Con modelos complejos basados ​​en datos históricos, satélites e información meteorológica actualizada constantemente, se pueden hacer predicciones del clima a largo plazo con una gran precisión.",
+        " Automatización industrial avanzada: Las máquinas equipadas con sistemas inteligentes son capaces no solo realizar tareas repetitivas sino también tomar decisiones autónomas sobre cómo llevarlas a cabo mejor o incluso repararse por sí mismas si es necesario",
+        " Agricultura sostenible optimizada : La tecnología agrícola impulsada por AI permite un uso eficiente del agua , fertilizantes y pesticidas reduciendo costos mientras aumenta rendimientos .",
+        " Traducción automática precisa : Gracias al aprendizaje profundo (deep learning), las herramientas traductoras automáticas han logrado mejorar significativamente su capacidad para entender contextos específicos lo cual mejora notablemente su calidad",
+        " Asistentes virtuales personalizados : Está siendo cada vez mas común la utilización de asistentes virtuales que pueden ayudar a los usuarios en tareas cotidianas como hacer reservaciones, programar citas y recordatorios."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/SliIYKnkDi0",
+    "popularOpinion": "La inteligencia artificial ha demostrado ser una herramienta valiosa para mejorar nuestra calidad de vida. Aunque hay preocupaciones sobre su impacto en el empleo humano y la privacidad, muchos ven un futuro prometedor con más avances tecnológicos impulsados ​​por IA.",
+    "summary": "Los top 7 avances sorprendentes de la inteligencia artificial incluyen diagnóstico médico preciso, descubrimiento de nuevos medicamentos , predicciones climáticas exactas , automatización industrial avanzada , agricultura sostenible optimizada traducción automática precisa y asistentes virtuales personalizados .",
+    "sources": [
+        " Artificial Intelligence in Medicine: Past, Present and Future (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457809/)",
+        " AI for Drug Discovery: Challenges and Opportunities (https://pubmed.ncbi.nlm.nih.gov/31891268/)",
+        " Advancing Weather Forecasting with Artificial Intelligence (https://blogs.nvidia.com/blog/2020/06/22/weather-prediction-artificial-intelligence/)",
+        " “The Fourth Industrial Revolution Is Here—Are You Ready?”( https://www.weforum.org/agenda/archive/fourth-industrial-revolution-here)",
+        "How AI is transforming agriculture( https://venturebeat.com/how-a-i-is-transforming-agriculture/)",
+        "Deep Learning-Based Machine Translation(http:/aclweb.org/aclwiki/index.php?title=Deep_Learning-Based_Machine_Translation)",
+        "“Virtual Assistants Are Everywhere – But They’re Not Yet Living Up to Their Name”( https :// www . theguardian . com / technology/2019/jul/06/virtual-assistants-are-everywhere-but-theyre-not-yet-living-up-to-their-name)"
+    ]
+}

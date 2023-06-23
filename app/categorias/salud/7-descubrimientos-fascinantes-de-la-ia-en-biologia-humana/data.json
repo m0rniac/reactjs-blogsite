@@ -1,0 +1,24 @@
+{
+    "originalTitle": "7 descubrimientos fascinantes de la IA en biología humana",
+    "routeTitle": "7-descubrimientos-fascinantes-de-la-ia-en-biologia-humana",
+    "headerKeywords": "ia, biología humana, descubrimientos fascinantes, tecnología médica, diagnóstico de enfermedades, tratamiento personalizado, análisis genómico avanzado, aprendizaje automático en medicina",
+    "title": "7 descubrimientos fascinantes de la IA en biología humana",
+    "introduction": "La inteligencia artificial (IA) ha revolucionado muchos campos, incluyendo el de la biología humana. Gracias a esta tecnología, se han hecho importantes avances que antes eran impensables. A continuación, presentamos siete descubrimientos fascinantes logrados gracias al uso de la IA.",
+    "list": [
+        " Diagnóstico temprano del cáncer: La IA puede analizar grandes cantidades de datos para detectar patrones y señales tempranas del cáncer.",
+        " Identificación genética personalizada: Con ayuda de los algoritmos adecuados, es posible identificar las variaciones genéticas individuales que pueden afectar a nuestra salud.",
+        " Desciframiento molecular más rápido: Los científicos están utilizando modelos computacionales basados ​​en aprendizaje automático para acelerar el proceso mediante el cual se determina cómo interactúan diferentes moléculas entre sí.",
+        " Predicción precisa del riesgo cardiovascular: Al utilizar técnicas avanzadas como redes neuronales artificiales o árboles aleatorios forestales , los médicos pueden predecir con mayor precisión quién tiene un alto riesgo cardiovascular y tomar medidas preventivas oportunamente",
+        " Análisis automatizado e interpretación rápida imágenes médicas : Las máquinas equipadas con sistemas informáticos especializados son capaces no solo reconocer estructuras anatómicas complejas sino también diagnosticar enfermedades específicas",
+        " Mejora en terapias personalizadas contra enfermedades crónicas : El análisis masivo permite una mejor comprensión sobre qué tratamientos funcionan mejor según cada paciente individualmente lo que mejora la eficacia de los tratamientos y reduce el riesgo de efectos secundarios.",
+        " Descubrimiento acelerado de nuevos medicamentos: La IA puede analizar grandes cantidades datos para identificar posibles compuestos que podrían ser útiles en el tratamiento enfermedades específicas."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/m97dJL7ZREU",
+    "popularOpinion": "La comunidad científica está entusiasmada con las nuevas oportunidades que ofrece la inteligencia artificial en biología humana. Muchos creen que estos avances pueden tener un impacto significativo en nuestra salud y calidad vida, permitiendo diagnósticos más precisos, terapias personalizadas e incluso descubrimientos médicos revolucionarios.",
+    "summary": "Gracias a la inteligencia artificial se han logrado importantes avances en biología humana como detección temprana del cáncer, análisis automatizado imágenes médicas o predicciones cardiovasculares más precisas entre otros. Estamos ante una nueva era donde esta tecnología permite mejorar nuestro bienestar general gracias al uso masivo datos combinados con técnicas avanzadas aprendizaje automático",
+    "sources": [
+        " Artificial intelligence in healthcare - National Institutes of Health",
+        " How AI is transforming drug discovery and development - PharmaPhorum",
+        "AI for medical imaging goes beyond the hype at RSNA 2019- Radiology Business"
+    ]
+}

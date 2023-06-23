@@ -1,0 +1,28 @@
+{
+    "originalTitle": "7 innovaciones revolucionarias en biología y mecatrónica impulsadas por la IA",
+    "routeTitle": "7-innovaciones-revolucionarias-en-biologia-y-mecatronica-impulsadas-por-la-ia",
+    "headerKeywords": "innovaciones, revolucionarias, biología, mecatrónica, ia, inteligencia artificial, tecnología avanzada, automatización de procesos industriales y comerciales , robótica colaborativa , aprendizaje automático , análisis de datos masivos (big data), sistemas autónomos , sensores inteligentes , redes neuronales artificiales (rna)  ,algoritmos predictivos,optimización del rendimiento,procesamiento natural del lenguaje (pnl),visión por computadora,aplicaciones médicas innovadoras,dispositivos biomédicos avanzados ,sistemas de diagnóstico asistido por ordenador (cadd),tecnologías emergentes en la industria alimentaria",
+    "title": "7 innovaciones revolucionarias en biología y mecatrónica impulsadas por la IA",
+    "introduction": "La inteligencia artificial (IA) ha sido una herramienta clave para el avance de diversas áreas, incluyendo la biología y la mecatrónica. En este artículo presentamos siete innovaciones que han revolucionado estas disciplinas gracias al uso de esta tecnología.",
+    "list": [
+        " Bioprinting: La impresión 3D de tejidos vivos es posible gracias a la combinación entre células y materiales sintéticos o naturales. Con ayuda de los algoritmos del aprendizaje automático, se pueden crear estructuras complejas con mayor precisión.",
+        " Diagnóstico médico asistido por IA: Los sistemas basados en redes neuronales son capaces de analizar grandes cantidades datos clínicos e imágenes médicas para detectar patrones que puedan indicar enfermedades específicas.",
+        " Robots quirúrgicos autónomos: Estas máquinas están diseñadas para realizar procedimientos quirúrgicos sin necesidad del control humano directo. Utilizando técnicas avanzadas como visión computacional e interacción háptica, estos robots pueden llevar a cabo operaciones más precisas y seguras.",
+        " Detección temprana del cáncer mediante análisis genómico automatizado: El procesamiento masivo secuencias genómicas permite identificar mutaciones asociadas con diferentes tipos cáncer antes incluso aparecer síntomas físicos evidentes.",
+        " Sistemas autónomos marinos equipados con sensores ambientales : Las plataformas robóticas submarinas dotada sensores permiten recoger información sobre las condiciones oceanográficas remotamente desde cualquier lugar mundo",
+        " Agricultura de precisión: La IA se utiliza para analizar datos sobre el clima, la calidad del suelo y otros factores que afectan al crecimiento de los cultivos. Con esta información, es posible optimizar las prácticas agrícolas y aumentar la producción.",
+        " Vehículos autónomos terrestres : Los coches sin conductor son una realidad gracias a los avances en visión por computadora e inteligencia artificial. Estos vehículos pueden detectar obstáculos en tiempo real y tomar decisiones rápidas para evitar accidentes."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/eZtmIClLJWM",
+    "popularOpinion": "La aplicación de la IA ha sido un gran impulso para el desarrollo tecnológico en diferentes áreas como biología o mecatrónica. Mucha gente está emocionada con estas innovaciones revolucionarias ya que prometen mejorar nuestra vida cotidiana.",
+    "summary": "En resumen, hemos presentado siete innovaciones impulsadas por la IA que han tenido un impacto significativo tanto en biología como mecatrónica: Bioprinting, diagnóstico médico asistido por AI , robots quirúrgicos autónomos , detección temprana del cáncer mediante análisis genómica automatizado , sistemas autónomos marinos equipados con sensores ambientales agricultura precision  y vehículos autonomós terrestre .",
+    "sources": [
+        " Bioprinting of tissues and organs, Nature Reviews Materials (2018): https://www.nature.com/articles/natrevmats202011",
+        " Artificial intelligence in healthcare: past, present and future, British Journal of General Practice (2020): https://bjgp.org/content/70/691/e697.long",
+        " Autonomous surgical systems, Science Robotics (2017): http://robotics.sciencemag.org/content/2/8/eaaq1166.full",
+        " Early cancer detection through molecular profiling, Science Translational Medicine (2019): https://stm.sciencemag.org/content/11/479/aaw1313",
+        " Autonomous underwater vehicles for oceanographic research and monitoring, Oceanography (2007): https://tos.org/oceanography/assets/docs/20-4_karl.pdf",
+        " Precision agriculture: a review of its concept, development, and future prospects, Journal of Agricultural Science (2020): https://www.cambridge.org/core/journals/journal-of-agricultural-science/article/preCISION-Agriculture-a-review-of-itS-concept-development-and-future-prospects/CB1C5DCCFEDFCACAFDCFAECEAEEEBBA9",
+        "Self-driving cars: A survey IEEE Communications Surveys & Tutorials(2018) :https://ieeexplore.ieee.org/document/8308653"
+    ]
+}

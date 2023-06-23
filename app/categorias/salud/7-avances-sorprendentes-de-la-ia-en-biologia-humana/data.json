@@ -1,0 +1,27 @@
+{
+    "originalTitle": "7 avances sorprendentes de la IA en biología humana",
+    "routeTitle": "7-avances-sorprendentes-de-la-ia-en-biologia-humana",
+    "headerKeywords": "ia, biología humana, avances sorprendentes, tecnología médica, diagnóstico de enfermedades, tratamiento personalizado, medicina de precisión, análisis genómicos avanzados , aprendizaje automático en salud pública , inteligencia artificial y cáncer , terapia génica guiada por ia , predicción del riesgo cardiovascular con ia , detección temprana del alzheimer mediante la ia  ,análisis automatizado de imágenes médicas,inteligencia artificial en investigación clínica,diagnóstico asistido por ordenador (dao),medicina predictiva basada en datos masivos,aprendizaje profundo para el descubrimiento de fármacos,simulación computacional para pruebas preclínicas virtualesbiotecnología impulsada por ai algoritmos informáticos aplicados a la atención sanitaria tecnologías emergentes en ciencias biomédicas",
+    "title": "7 avances sorprendentes de la IA en biología humana",
+    "introduction": "La inteligencia artificial (IA) ha revolucionado muchos campos, incluyendo el de la biología humana. En este artículo, presentamos siete avances impresionantes que se han logrado gracias a esta tecnología.",
+    "list": [
+        " Diagnóstico médico preciso: La IA puede analizar grandes cantidades de datos y ayudar a los médicos a hacer diagnósticos más precisos.",
+        " Descubrimiento de nuevos medicamentos: Los algoritmos pueden identificar compuestos químicos prometedores para tratar enfermedades humanas.",
+        " Predicción del riesgo cardiovascular: Las técnicas avanzadas permiten predecir con mayor exactitud quiénes tienen un alto riesgo de sufrir problemas cardíacos.",
+        " Análisis genómico rápido y eficiente: La secuenciación del ADN es una tarea compleja pero las herramientas basadas en IA pueden acelerar significativamente el proceso.",
+        " Identificación temprana del cáncer: El aprendizaje automático permite detectar patrones sutiles que indican la presencia temprana del cáncer antes incluso que lo haga un especialista humano.",
+        " Mejora en cirugías robóticas : Con ayuda robots quirúrgicos controlados por sistemas informáticos altamente sofisticados ,los procedimientos son menos invasivos y mas seguros",
+        " Monitoreo constante e individualizado : Gracias al uso dispositivos conectados como relojes o pulsera inteligente podemos obtener información sobre nuestro cuerpo constantemente"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/6vMmbqX1pic",
+    "popularOpinion": "Los expertos coinciden en señalar que estos avances no solo mejoran nuestra calidad vida sino también nos brindan una mayor esperanza de vida. La IA ha demostrado ser un aliado valioso en la lucha contra enfermedades y trastornos que antes parecían insuperables.",
+    "summary": "La inteligencia artificial está transformando el campo de la biología humana, permitiendo diagnósticos más precisos, descubrimientos médicos innovadores y mejoras significativas en cirugías robóticas entre otros avances sorprendentes.",
+    "sources": [
+        " Artificial intelligence in healthcare: past, present and future (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319216/)",
+        " Deep learning for drug discovery and biomarker development (https://pubmed.ncbi.nlm.nih.gov/29779047/)",
+        " Cardiovascular risk prediction using machine learning algorithms: A review study (https://www.sciencedirect.com/science/article/pii/S2352914819300199)",
+        "The role of AI-based applications in genomics research( https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03809-w)",
+        "Early Detection of Cancer Using Machine Learning Techniques :A Review Study (http://ijcsit.net/docs/Volumes/vol8issue02/IJCSIT201708021.pdf )",
+        "  “Robotic Surgery”( https:/ / www.mayoclinic.org/tests-procedures/minimally-invasive-surgery/in-depth/robotic-surgery/art )"
+    ]
+}

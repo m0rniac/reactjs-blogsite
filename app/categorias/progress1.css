@@ -1,0 +1,26 @@
+/* [Corpus; Loader 1] */
+.custom-loader {
+    height: 8px;
+    width: 260px;
+    background:
+        linear-gradient(#000000 0 0),
+        linear-gradient(#000000 0 0),
+        #E4E4ED;
+    background-size: 60% 100%;
+    background-repeat: no-repeat;
+    animation: p6 1.5s infinite;
+}
+
+@keyframes p6 {
+    0% {
+        background-position: -150% 0, -150% 0
+    }
+
+    66% {
+        background-position: 250% 0, -150% 0
+    }
+
+    100% {
+        background-position: 250% 0, 250% 0
+    }
+}

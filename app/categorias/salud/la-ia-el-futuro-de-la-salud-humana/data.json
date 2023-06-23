@@ -1,0 +1,21 @@
+{
+    "originalTitle": "La IA: el futuro de la salud humana",
+    "routeTitle": "la-ia-el-futuro-de-la-salud-humana",
+    "headerKeywords": "ia, futuro, salud humana, inteligencia artificial, tecnología médica, innovación en la salud, diagnóstico preciso y rápido, tratamiento personalizado de enfermedades crónicas y agudas , análisis de datos clínicos masivos (big data), aprendizaje automático (machine learning), algoritmos predictivos avanzados para el cuidado del paciente , telemedicina , atención sanitaria remota , robots quirúrgicos asistidos por ia  , monitoreo continuo de pacientes con dispositivos portátiles conectados a internet of things (iot)   sistemas expertos basados ​​en conocimientos médicos especializados    realidad virtual / aumentada aplicaciones móviles para la gestión de la salud     seguridad cibernética en los registros electrónicos de salud      ética en el uso responsable e inclusivo de ai en medicina",
+    "title": "La IA: el futuro de la salud humana",
+    "introduction": "La Inteligencia Artificial (IA) se ha convertido en una herramienta clave para mejorar la calidad de vida y bienestar humano. En particular, su aplicación en el campo de la salud está revolucionando los métodos tradicionales y abriendo nuevas posibilidades.",
+    "list": [
+        " Diagnóstico preciso: La IA puede analizar grandes cantidades de datos médicos e identificar patrones que pueden ser difíciles para un profesional humano detectar. Esto permite diagnósticos más precisos y tempranos.",
+        " Tratamientos personalizados: Con base en información específica del paciente, como historial clínico completo o resultados genéticos, las soluciones terapéuticas pueden adaptarse a cada individuo con mayor eficacia.",
+        " Mejora del monitoreo remoto: Los dispositivos conectados permiten recopilar datos sobre pacientes fuera del hospital o consultorio médico. Estos registros son procesados por algoritmos inteligentes que alertan a los profesionales si hay alguna anomalía significativa.",
+        " Automatización quirúrgica asistida por robots : Las intervenciones quirúrgicas realizadas mediante robótica tienen menos riesgos asociados debido a su alta precisión y menor invasividad."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/SliIYKnkDi0",
+    "popularOpinion": "Los avances tecnológicos han generado cierta preocupación entre algunos sectores sociales acerca del papel creciente que juega la IA en nuestras vidas cotidianas; sin embargo, muchos expertos coinciden en señalar sus beneficios potenciales cuando se utiliza adecuadamente.",
+    "summary": "En resumen, es evidente cómo esta nueva era digital nos ofrece oportunidades únicas para avanzar hacia una atención sanitaria más efectiva gracias al uso de la IA. La combinación del conocimiento médico y las capacidades tecnológicas pueden mejorar significativamente el diagnóstico, tratamiento y seguimiento de enfermedades.",
+    "sources": [
+        " https://www.bbva.com/es/ia-en-salud-la-revolucion-de-las-tecnologias-inteligentes/",
+        " https://elpais.com/sociedad/2021-06-08/el-futuro-de-la-medicina-pasa-por-el-uso-correcto-y-etico-de-la-inteligencia-artificial.html",
+        " https://www.redaccionmedica.com/secciones/sanidad-hoy/-que-beneficios-tiene-el-uso-de-la-inteligencia-artificial-en-sanidad--7325"
+    ]
+}

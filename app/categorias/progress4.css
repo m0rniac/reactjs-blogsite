@@ -1,0 +1,31 @@
+.custom-loader {
+    width: 86.4px;
+    height: 86.4px;
+    background: linear-gradient(90deg, #000000 50%, #ff006f 0) top/100% 50% no-repeat,
+        linear-gradient(90deg, #ffb300 50%, #4740ff 0);
+    -webkit-mask: linear-gradient(#000 0 0) 0 0/50% 50% no-repeat;
+    mask: linear-gradient(#000 0 0) 0 0/50% 50% no-repeat;
+    animation: colorful-ri47mk 2s infinite;
+}
+
+@keyframes colorful-ri47mk {
+    0% {
+        -webkit-mask-position: 0 0;
+    }
+
+    25% {
+        -webkit-mask-position: 100% 0;
+    }
+
+    50% {
+        -webkit-mask-position: 100% 100%;
+    }
+
+    75% {
+        -webkit-mask-position: 0 100%;
+    }
+
+    100% {
+        -webkit-mask-position: 0 0;
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "originalTitle": "El futuro de la ciencia: 7 descubrimientos astronómicos y biológicos con IA",
+    "routeTitle": "el-futuro-de-la-ciencia-7-descubrimientos-astronomicos-y-biologicos-con-ia",
+    "headerKeywords": "futuro, ciencia, descubrimientos astronómicos, descubrimientos biológicos, ia, inteligencia artificial",
+    "title": "El futuro de la ciencia: 7 descubrimientos astronómicos y biológicos con IA",
+    "introduction": "La inteligencia artificial (IA) está revolucionando el mundo científico, permitiendo avances que antes eran impensables. En este artículo presentamos siete descubrimientos recientes en los campos de la astronomía y biología gracias al uso de esta tecnología.",
+    "list": [
+        " Telescopios autónomos: La IA permite a los telescopios detectar automáticamente objetos celestes como estrellas o planetas, lo que acelera enormemente el proceso de investigación.",
+        " Análisis genético automatizado: Con herramientas basadas en IA se pueden analizar grandes cantidades de datos genéticos para identificar patrones relacionados con enfermedades o características físicas.",
+        " Predicción del clima espacial: Los satélites equipados con sistemas basados ​​en aprendizaje automático son capaces predecir las tormentas solares y otros fenómenos cósmicos peligrosos para nuestro planeta.",
+        " Identificación temprana del cáncer : Las técnicas avanzadas basadas en AI ayudan a detectar tumores cancerosos mucho más rápido que cualquier método anteriormente utilizado por médicos especialistas",
+        " Descifrar señales extraterrestres - Algoritmos complejos utilizados junto con antenas gigantes han sido diseñado específicamente para buscar signos vida alienígena mediante análisis exhaustivo",
+        " Modelización molecular - Gracias al poder computacional proporcionado por la Inteligencia Artificial , es posible simular cómo interactúan moléculas diferentes entre sí . Esto puede ser útil tanto para la investigación de nuevos medicamentos como para el diseño de materiales innovadores.",
+        " Predicción del cambio climático - Los modelos basados en IA pueden analizar grandes cantidades datos meteorológicos y predecir cómo cambiará nuestro clima a largo plazo."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/kT92VTMOvxQ",
+    "popularOpinion": "La comunidad científica está entusiasmada con los avances que se están logrando gracias al uso de la inteligencia artificial. Muchos creen que esta tecnología será clave para resolver algunos de los mayores desafíos actuales, desde enfermedades hasta problemas ambientales.",
+    "summary": "En resumen, estos siete descubrimientos astronómicos y biológicos son solo una muestra del potencial revolucionario que tiene la Inteligencia Artificial en el mundo científico. La capacidad computacional proporcionada por estas herramientas permite acelerar enormemente procesos complejos e incluso abordar preguntas fundamentales sobre nuestra existencia.",
+    "sources": [
+        " How AI is changing the face of astronomy (https://www.nature.com/articles/d41586-019-02667-w)",
+        " Artificial intelligence in genomics: A brief overview and future possibilities (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7017846/)",
+        " Machine learning for space weather prediction: From data to decision-making (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018SW002024)",
+        "AI can detect cancer faster than humans",
+        "The Search For Extraterrestrial Intelligence Gets Its Own Neural Network",
+        "Artificial intelligence in materials science: recent progress and future outlook (https://www.nature.com/articles/s41578-020-00251-w)",
+        "Machine learning for climate change: from data to actionable insights"
+    ],
+    "amazonLink": ""
+}

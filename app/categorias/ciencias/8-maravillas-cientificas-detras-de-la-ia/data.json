@@ -1,0 +1,30 @@
+{
+    "originalTitle": "8 maravillas científicas detrás de la IA: Descubre cómo la ciencia impulsa el futuro de la inteligencia artificial",
+    "routeTitle": "8-maravillas-cientificas-detras-de-la-ia",
+    "headerKeywords": "maravillas científicas, ia, inteligencia artificial, ciencia, futuro de la ia",
+    "title": "8 maravillas científicas detrás de la IA",
+    "introduction": "La inteligencia artificial (IA) es una tecnología que ha revolucionado el mundo en los últimos años. Desde asistentes virtuales hasta robots autónomos, la IA está presente en muchos aspectos de nuestra vida cotidiana. Pero ¿cómo funciona realmente? En este artículo, descubriremos las ocho maravillas científicas detrás de la IA y cómo están impulsando el futuro.",
+    "list": [
+        " Aprendizaje automático: El aprendizaje automático es un subcampo de la inteligencia artificial que se centra en enseñar a las máquinas a aprender por sí mismas sin ser programadas explícitamente.",
+        " Redes neuronales artificiales: Las redes neuronales son sistemas informáticos inspirados en el cerebro humano que pueden reconocer patrones complejos y realizar tareas como clasificación, predicción y generación creativa.",
+        " Procesamiento del lenguaje natural (PLN): PLN permite a las computadoras entender e interpretar el lenguaje humano para responder preguntas, traducir idiomas y generar texto coherente.",
+        " Visión por computadora: La visión por computadora utiliza algoritmos para analizar imágenes digitales con fines médicos, militares e industriales entre otros usos",
+        " Robótica cognitiva : Los robots cognitivos utilizan técnicas avanzadas de procesamiento del lenguaje natural , percepción visual , planificación robótica etc., lo cual les permite interactuar más eficazmente con su entorno .",
+        " Sistemas multiagentes : Están diseñados para trabajar juntos hacia objetivos comunes utilizando comunicaciones sofisticadas",
+        " Minería datos : La minería de datos es el proceso de descubrir patrones y relaciones en grandes conjuntos de datos para ayudar a tomar decisiones informadas.",
+        " Computación cuántica: la computación cuántica utiliza qubits, que pueden estar en múltiples estados al mismo tiempo, lo cual permite realizar cálculos mucho más rápido."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/34Kz-PP_X7c",
+    "popularOpinion": "La IA ha sido objeto tanto de entusiasmo como preocupaciones. Algunos temen que las máquinas superinteligentes puedan eventualmente reemplazar a los humanos en muchos trabajos. Sin embargo, otros ven un futuro brillante donde la IA puede mejorar nuestras vidas y resolver problemas complejos.",
+    "summary": "En resumen , estas ocho maravillas científicas detrás del desarrollo tecnológico son solo una muestra del potencial ilimitado e impacto positivo que tiene la inteligencia artificial sobre nuestra vida cotidiana .",
+    "sources": [
+        " What is Machine Learning? SAS Institute Inc., 2021",
+        " Neural Networks and Deep Learning Michael Nielsen, 2015",
+        "Natural Language Processing (NLP) IBM Watson Developer Cloud,",
+        " “Computer Vision” OpenCV.org ,",
+        "“Cognitive Robotics”, Springer Link,",
+        "“Multi-Agent Systems”, Science Direct,",
+        " “Quantum Computing” IBM Research,"
+    ],
+    "amazonLink": ""
+}
